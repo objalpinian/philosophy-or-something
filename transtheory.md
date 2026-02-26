@@ -29,3 +29,13 @@ These are not coextensive semantic functions. A term cannot simultaneously funct
 The claim "self-identification may be necessary for claims" is especially misleading. What is self-identification necessary for? If gender is a status category, then semantic competence requires G(X) has conditions independent of X's beliefs. But the clause "self-identification may be necessary for claims" conflates the act of making a claim with the truth conditions of the predicate "X is G." Self identification is trivially necessary to assert anything about oneself, sure, but that is just a pragmatic fact about speech acts, not any semantic condition of category membership. The clause therefore adds no substantive content, yet falsely suggests relevance. 
 
 "Recognition requires independent social justification" contradicts the idea that gender is a status-category. If gender really is a status-category, then recognition follows constitutive rules and role criteria. Discretionary "justification" implies that recognition is discretionary or case by case. This makes "gender" a normative verdict. That turns "X is a woman" from a classificatory statement into an endorsement or refusal. Which means the predicate no longer denotes a category at all, as it only denotes approval. 
+
+Judith Butler's dogshit philosophy in no way counters this. All it does is redefine identity into a meaningless performative brute. Seriously, who let this self righteous BITCH into modern philosophy? STOP TRYING TO BRING HER INTO ARGUMENTS. HER PHILOSOPHY IS SHIT. SHE ISN'T WORTH TALKING ABOUT.
+
+From the fact that gender roles vary historically, she illegitimately concludes that sex categories lack ontological grounding. Social mediation is not the social construction of the underlying referent. Language shaping interpretation in no way creates reality.
+
+If there is no prior subject, then who performs? Who repeats? Who experiences constraint? Performativity presupposes an agent with continuity capable of acting over time.
+
+From the fact that gender roles vary historically, she illegitimately concludes that sex categories lack ontological grounding. Social mediation is not the social construction of the underlying referent Language shaping interpretation in no way creates reality.
+
+If there is no prior subject, then who performs? Who repeats? Who experiences constraint? Performativity presupposes an agent with continuity capable of acting over time.
