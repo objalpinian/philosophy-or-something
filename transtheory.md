@@ -4,7 +4,7 @@ Taking the name "trans identity" literally, it would imply that self identificat
 
 But gender can be conceptually defined in a variety of sociological ways independently of sex, all of which fail.
 
-Self-identity is a theory of gender in which an individual's declaration of identity is the sole criterion for classification. Here, "being a woman" or "being a man" is det ermined exclusively by the person's self-avowed identification, regardless of anything else. The problem we run into with this definition is that, if gender is purely self-declared, the definition becomes tautological: "A woman is anyone who says they are a woman." This renders gender completely meaningless as a sociological category.
+Self-identity is a theory of gender in which an individual's declaration of identity is the sole criterion for classification. Here, "being a woman" or "being a man" is determined exclusively by the person's self-avowed identification, regardless of anything else. The problem we run into with this definition is that, if gender is purely self-declared, the definition becomes tautological: "A woman is anyone who says they are a woman." This renders gender completely meaningless as a sociological category.
 
 Using social roles or stereotypes defines categories based on culturally or historically prescribed behaviors or social functions associated with men and women. This classification relies on collective patterns of behavior rather than individual self-declaration. But defining gender by social roles presupposes existing categories; it is circular. Roles historically correlated with sex cannot define categories that are themselves presumed by these roles.
 
