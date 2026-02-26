@@ -10,4 +10,22 @@ Using social roles or stereotypes defines categories based on culturally or hist
 
 External perception is a conception of gender in which classification depends on how others perceive an individual. Under this, gender is relational, defined by the individual and society. But if gender is determined by how others perceive one, self-assignment is logically insufficient., The individual cannot unilaterally instantiate the category. 
 
-Gender, if it is to function as a meaningful social category, must be grounded in objective, observable criteria. The only coherent basis is biological sex, because alternative definitions all lead to incoherence.
+"Gender is a socially constituted, historically sex-linked, norm-governed status-category in which self-identification may be necessary for claims but never sufficient for authoritative classification, and recognition requires independent social justification."
+
+This definition has recently gained traction, usuallyp resented as a conciliatory or "bulletproof" account of gender. In fact, it requires conceding most of what contemporary trans theory aims to establish. The definition explicitly denies that self-identification is sufficient for gender category membership, thereby abandoning the claim that self-ascription can ground it.
+
+Contemporary trans theory requires a bridge from self-identification to authoritative classification. Formally, from S(X,G) to G(X) to obligations on others. The proposed definition denies the existence of such a bridge. It therefore avoids the problem only by relinquishing the central theoretical commitment that self-identification has decisive normative force.
+
+More seriously, the definition is seriously unstable. It equivocates between multiple semantic roles that cannot coherently be unified under a single predicate.
+
+"Historically sex linked" describes a tracking relation (gender as a classificatory scheme correlated with sex)
+"Norm-governed" describes a regulative framework (gender as a set of expectations)
+"Status-category" describes a position within an institution or practice
+"Self-identification may be necessary for claims" treats gender as something like a first person indexical
+"Authoritative classification" treats gender as a third person public predicate
+
+These are not coextensive semantic functions. A term cannot simultaneously function as a descriptive classifier, normative role, subjective avowal, and an institutional status without equivocation. The word "gender" here literally shifts meaning mid definition.
+
+The claim "self-identification may be necessary for claims" is especially misleading. What is self-identification necessary for? If gender is a status category, then semantic competence requires G(X) has conditions independent of X's beliefs. But the clause "self-identification may be necessary for claims" conflates the act of making a claim with the truth conditions of the predicate "X is G." Self identification is trivially necessary to assert anything about oneself, sure, but that is just a pragmatic fact about speech acts, not any semantic condition of category membership. The clause therefore adds no substantive content, yet falsely suggests relevance. 
+
+"Recognition requires independent social justification" contradicts the idea that gender is a status-category. If gender really is a status-category, then recognition follows constitutive rules and role criteria. Discretionary "justification" implies that recognition is discretionary or case by case. This makes "gender" a normative verdict. That turns "X is a woman" from a classificatory statement into an endorsement or refusal. Which means the predicate no longer denotes a category at all, as it only denotes approval. 
