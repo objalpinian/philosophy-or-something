@@ -2,9 +2,9 @@ not finished
 
 Taking the name "trans identity" literally, it would imply that self identification is constitutive of an agent's identity. Properly understood, identity is logically prior to action. For any subject X to self-identify, X must exist prior to that act. But on the assumption, X does not yet exist as the thing self-identification alledly creates. Therefore, X must exist in order not yet to exist.
 
-Gender can be conceptually defined in a variety of sociological ways independently of sex, all of which fail.
+But gender can be conceptually defined in a variety of sociological ways independently of sex, all of which fail.
 
-Self-identity is a theory of gender in which an individual's declaration of identity is the sole criterion for classification. Here, "being a woman" or "being a man" is det ermined exclusively by the person's self-avowed identification, regardless of anything else. The problem we run into with this definition is that, if gender is purely self-declared, the definition becomes tautological: "A woman ais anyone who says they are a woman." This renders gender completely meaningless as a sociological category.
+Self-identity is a theory of gender in which an individual's declaration of identity is the sole criterion for classification. Here, "being a woman" or "being a man" is det ermined exclusively by the person's self-avowed identification, regardless of anything else. The problem we run into with this definition is that, if gender is purely self-declared, the definition becomes tautological: "A woman is anyone who says they are a woman." This renders gender completely meaningless as a sociological category.
 
 Using social roles or stereotypes defines categories based on culturally or historically prescribed behaviors or social functions associated with men and women. This classification relies on collective patterns of behavior rather than individual self-declaration. But defining gender by social roles presupposes existing categories; it is circular. Roles historically correlated with sex cannot define categories that are themselves presumed by these roles.
 
@@ -12,7 +12,7 @@ External perception is a conception of gender in which classification depends on
 
 "Gender is a socially constituted, historically sex-linked, norm-governed status-category in which self-identification may be necessary for claims but never sufficient for authoritative classification, and recognition requires independent social justification."
 
-This definition has recently gained traction, usuallyp resented as a conciliatory or "bulletproof" account of gender. In fact, it requires conceding most of what contemporary trans theory aims to establish. The definition explicitly denies that self-identification is sufficient for gender category membership, thereby abandoning the claim that self-ascription can ground it.
+This definition has recently gained traction, usually presented as a conciliatory or "bulletproof" account of gender. In fact, it requires conceding most of what contemporary trans theory aims to establish. The definition explicitly denies that self-identification is sufficient for gender category membership, thereby abandoning the claim that self-ascription can ground it.
 
 Contemporary trans theory requires a bridge from self-identification to authoritative classification. Formally, from S(X,G) to G(X) to obligations on others. The proposed definition denies the existence of such a bridge. It therefore avoids the problem only by relinquishing the central theoretical commitment that self-identification has decisive normative force.
 
