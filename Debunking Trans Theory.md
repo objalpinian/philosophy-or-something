@@ -1,6 +1,6 @@
 not finished
 
-Taking the name "trans identity" literally, it would imply that self identification is constitutive of an agent's identity. Properly understood, identity is logically prior to action. For any subject X to self-identify, X must exist prior to that act. But on the assumption, X does not yet exist as the thing self-identification alledly creates. Therefore, X must exist in order not yet to exist.
+Taking the name "trans identity" literally, it would imply that self identification is constitutive of an agent's identity. Properly understood, identity is logically prior to action. If not, then who performs? Who repeats? For any subject X to self-identify, X must exist prior to that act. But on the assumption, X does not yet exist as the thing self-identification alledly creates. Therefore, X must exist in order not yet to exist.
 
 But gender can be conceptually defined in a variety of sociological ways independently of sex, all of which fail.
 
