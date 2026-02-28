@@ -14,7 +14,7 @@ External perception is a conception of gender in which classification depends on
 
 This definition has recently gained traction, usually presented as a conciliatory or "bulletproof" account of gender. In fact, it requires conceding most of what contemporary trans theory aims to establish. The definition explicitly denies that self-identification is sufficient for gender category membership, thereby abandoning the claim that self-ascription can ground it.
 
-Contemporary trans theory requires a bridge from self-identification to authoritative classification. Formally, from S(X,G) to G(X) to obligations on others. The proposed definition denies the existence of such a bridge. It therefore avoids the problem only by relinquishing the central theoretical commitment that self-identification has decisive normative force.
+Contemporary trans theory requires a bridge from self-identification to authoritative classification. The proposed definition denies the existence of such a bridge. It therefore avoids the problem only by relinquishing the central theoretical commitment that self-identification has decisive normative force.
 
 More seriously, the definition is seriously unstable. It equivocates between multiple semantic roles that cannot coherently be unified under a single predicate.
 
