@@ -16,17 +16,9 @@ This definition has recently gained traction, usually presented as a conciliator
 
 Contemporary trans theory requires a bridge from self-identification to authoritative classification. The proposed definition denies the existence of such a bridge. It therefore avoids the problem only by relinquishing the central theoretical commitment that self-identification has decisive normative force.
 
-More seriously, the definition is seriously unstable. It equivocates between multiple semantic roles that cannot coherently be unified under a single predicate.
+More seriously, the definition is seriously unstable. It equivocates between multiple semantic roles that cannot coherently be unified under a single predicate. 
 
-"Historically sex linked" describes a tracking relation (gender as a classificatory scheme correlated with sex)
-
-"Norm-governed" describes a regulative framework (gender as a set of expectations)
-
-"Status-category" describes a position within an institution or practice
-
-"Self-identification may be necessary for claims" treats gender as something like a first person indexical
-
-"Authoritative classification" treats gender as a third person public predicate
+"Historically sex linked" describes a tracking relation (gender as a classificatory scheme correlated with sex); "Norm-governed" describes a regulative framework (gender as a set of expectations); "Status-category" describes a position within an institution or practice; "Self-identification may be necessary for claims" treats gender as something like a first person indexical; "Authoritative classification" treats gender as a third person public predicate.
 
 These are not coextensive semantic functions. A term cannot simultaneously function as a descriptive classifier, normative role, subjective avowal, and an institutional status without equivocation. The word "gender" here literally shifts meaning mid definition.
 
