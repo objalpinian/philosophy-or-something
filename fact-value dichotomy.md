@@ -12,10 +12,6 @@ Further grounding this point, Rand explains that "It is only the concept of 'Lif
 
 Choosing X over Y is to treat X as what ought to be done. If A treats X as a chosen end, and then systematically acts to make ¬X true, then A is undermining A's own agency; A's actions negate the content of their own choice. These values are not arbitrary. 
 
-> It is only the concept of ‘Life’ that makes the concept of ‘Value’ possible. It is only to a living entity that things can be good or evil.
-> 
-> (...)
-> 
 > Man has been called a rational being, but rationality is a matter of choice—and the alternative his nature offers him is: rational being or suicidal animal. Man has to be man—by choice; he has to hold his life as a value—by choice; he has to learn to sustain it—by choice; he has to discover the values it requires and practice his virtues—by choice. A code of values accepted by choice is a code of morality. [^2]
 
 Every human being, as a rational agent, must act in ways that sustain and promote his life, for life is the standard of value and reason is man's only means of knowledge and action. In human beings, those actions depend on cognition: we must identify the facts of reality in order to survive. One cannot reject reason without simultaneously undermining the conditions that make action possible. A person may claim that life is not a value, but if he attempts to live, he is already guided by the requirements of life. Whether he acknowledges it or not, reality—not whim—determines which actions sustain life and which destroy it.
