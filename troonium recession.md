@@ -1,4 +1,4 @@
-not finished
+not finished. this sucks dick ngl i might just rewrite the whole thing
 
 Taking the name "trans identity" literally, it would imply that self identification is constitutive of an agent's identity. Properly understood, identity is logically prior to action. If identity were constituted by action, then there would be no subject to perform, nor would their be a bearer of repetition. For any subject X to self-identify, X must exist prior to that act. But on the assumption, X does not yet exist as the thing self-identification alledly creates. Therefore, X must exist in order not yet to exist.
 
