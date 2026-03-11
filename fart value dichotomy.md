@@ -1,4 +1,4 @@
-basically condensed zulu
+basically condensed zulu from a more objectivist position
 
 Hume's guillotine is treated as this decisive barrier between facts and values despite Hume explicitly denying that because subjectivists are massive fucking retards. Properly understood, Hume's point is that a purely descriptive set of premises cannot yield a normative conclusion without at least one normative premise.
 
