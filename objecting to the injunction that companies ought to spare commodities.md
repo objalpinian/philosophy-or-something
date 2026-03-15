@@ -1,3 +1,0 @@
-ts never getting finished
-
-Some argue that companies ought to spare commodities—that is, to limit production or available for social reasons. This presupposes that businesses have moral obligations independent of their role as agents in the market place, and that there is a universal reason to act against immediate economic incentives
